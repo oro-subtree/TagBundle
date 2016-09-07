@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     tag-grid:
         options:
             entityHint: tag
